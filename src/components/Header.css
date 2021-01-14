@@ -1,0 +1,6 @@
+.test{
+    padding: 0% 1%;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: greenyellow 5px solid;
+}
